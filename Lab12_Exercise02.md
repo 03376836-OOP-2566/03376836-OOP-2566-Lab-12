@@ -76,6 +76,7 @@ dotnet run --project Lab12_Ex02
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
-![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-12/assets/144197034/ba7225e3-2f0e-4ce7-9dbc-710ffc62e15e)
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-12/assets/144197034/bf099c6f-446d-49e4-8b55-2f8feb95f5d4)
+
 
 7.อธิบายสิ่งที่พบในการทดลอง
