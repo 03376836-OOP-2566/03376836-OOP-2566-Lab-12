@@ -50,3 +50,5 @@ dotnet run --project Lab12_Ex01
 ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-12/assets/144197034/2d6dd4d2-6f0c-417c-971e-aaff34716b12)
 
 7.อธิบายสิ่งที่พบในการทดลอง
+
+จากการทดลองนี้เรามีการสร้างคลาส BaseClass ซึ่งเป็นคลาสที่มีเมท็อดที่ถูกประกาศเป็น abstract ซึ่งหมายความว่าเมท็อด A() ต้องถูกสร้างขึ้นใหม่ในคลาสลูก และมีคลาส DerivedClass ที่สืบทอดจาก BaseClass ซึ่งมีการโอเวอร์ไรด์เมท็อด A() โดยมีการแสดงผลข้อความ "Implementation of inheritance classes" ในเมท็อด A() ของ DerivedClass ซึ่งเป็นการใช้งานพอลีมอร์ฟิซึ่ม และในการสร้างอ็อบเจกต์เราใช้ BaseClass เป็นชนิดของตัวแปรแต่ก็สร้างอ็อบเจกต์จาก DerivedClass และเรียกใช้เมท็อด A() ซึ่งจะแสดงผลลัพธ์ "Implementation of inheritance classes" จาก DerivedClass ซึ่งมีการแสดงผลดังภาพด้านบน
