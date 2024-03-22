@@ -7,6 +7,7 @@
 ```cmd
 dotnet new console --name Lab12_Ex05
 ```
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-12/assets/144197034/cae22a19-332b-4189-b6fa-f014f96df639)
 
 2.เปลี่ยน code ให้เป็นดังต่อไปนี้
 
@@ -80,6 +81,9 @@ class Circle : Shape
     }
 }
 ```
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-12/assets/144197034/945f64f1-518c-4876-9b55-6e1c994b3b52)
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-12/assets/144197034/50ba6b1d-4620-467a-98b9-2e5fb3774d05)
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-12/assets/144197034/b3e4dd02-5aa0-4782-97a9-77b4bb575a16)
 
 3.Build project โดยการใช้คำสั่ง
 
@@ -90,6 +94,7 @@ dotnet build  Lab12_Ex05
 ถ้ามีที่ผิดพลาดในโปรแกรม ให้แก้ไขให้ถูกต้อง
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-12/assets/144197034/cac254c6-bdf3-44e4-b86a-594dfff0d482)
 
 5.Run project โดยการใช้คำสั่ง
 
@@ -98,5 +103,6 @@ dotnet run --project Lab12_Ex05
 ```
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-12/assets/144197034/aa6b5983-fff7-4531-8728-e05f3a71d0f3)
 
 7.อธิบายสิ่งที่พบในการทดลอง
