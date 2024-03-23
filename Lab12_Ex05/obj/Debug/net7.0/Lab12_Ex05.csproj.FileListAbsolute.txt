@@ -1,0 +1,14 @@
+C:\LAB12\Lab12_Ex05\bin\Debug\net7.0\Lab12_Ex05.exe
+C:\LAB12\Lab12_Ex05\bin\Debug\net7.0\Lab12_Ex05.deps.json
+C:\LAB12\Lab12_Ex05\bin\Debug\net7.0\Lab12_Ex05.runtimeconfig.json
+C:\LAB12\Lab12_Ex05\bin\Debug\net7.0\Lab12_Ex05.dll
+C:\LAB12\Lab12_Ex05\bin\Debug\net7.0\Lab12_Ex05.pdb
+C:\LAB12\Lab12_Ex05\obj\Debug\net7.0\Lab12_Ex05.GeneratedMSBuildEditorConfig.editorconfig
+C:\LAB12\Lab12_Ex05\obj\Debug\net7.0\Lab12_Ex05.AssemblyInfoInputs.cache
+C:\LAB12\Lab12_Ex05\obj\Debug\net7.0\Lab12_Ex05.AssemblyInfo.cs
+C:\LAB12\Lab12_Ex05\obj\Debug\net7.0\Lab12_Ex05.csproj.CoreCompileInputs.cache
+C:\LAB12\Lab12_Ex05\obj\Debug\net7.0\Lab12_Ex05.dll
+C:\LAB12\Lab12_Ex05\obj\Debug\net7.0\refint\Lab12_Ex05.dll
+C:\LAB12\Lab12_Ex05\obj\Debug\net7.0\Lab12_Ex05.pdb
+C:\LAB12\Lab12_Ex05\obj\Debug\net7.0\Lab12_Ex05.genruntimeconfig.cache
+C:\LAB12\Lab12_Ex05\obj\Debug\net7.0\ref\Lab12_Ex05.dll

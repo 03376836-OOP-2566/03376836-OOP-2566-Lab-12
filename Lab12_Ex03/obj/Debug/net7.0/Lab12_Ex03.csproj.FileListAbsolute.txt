@@ -1,0 +1,14 @@
+C:\LAB12\Lab12_Ex03\bin\Debug\net7.0\Lab12_Ex03.exe
+C:\LAB12\Lab12_Ex03\bin\Debug\net7.0\Lab12_Ex03.deps.json
+C:\LAB12\Lab12_Ex03\bin\Debug\net7.0\Lab12_Ex03.runtimeconfig.json
+C:\LAB12\Lab12_Ex03\bin\Debug\net7.0\Lab12_Ex03.dll
+C:\LAB12\Lab12_Ex03\bin\Debug\net7.0\Lab12_Ex03.pdb
+C:\LAB12\Lab12_Ex03\obj\Debug\net7.0\Lab12_Ex03.GeneratedMSBuildEditorConfig.editorconfig
+C:\LAB12\Lab12_Ex03\obj\Debug\net7.0\Lab12_Ex03.AssemblyInfoInputs.cache
+C:\LAB12\Lab12_Ex03\obj\Debug\net7.0\Lab12_Ex03.AssemblyInfo.cs
+C:\LAB12\Lab12_Ex03\obj\Debug\net7.0\Lab12_Ex03.csproj.CoreCompileInputs.cache
+C:\LAB12\Lab12_Ex03\obj\Debug\net7.0\Lab12_Ex03.dll
+C:\LAB12\Lab12_Ex03\obj\Debug\net7.0\refint\Lab12_Ex03.dll
+C:\LAB12\Lab12_Ex03\obj\Debug\net7.0\Lab12_Ex03.pdb
+C:\LAB12\Lab12_Ex03\obj\Debug\net7.0\Lab12_Ex03.genruntimeconfig.cache
+C:\LAB12\Lab12_Ex03\obj\Debug\net7.0\ref\Lab12_Ex03.dll
