@@ -57,7 +57,8 @@ dotnet build  Lab12_Ex03
 ถ้ามีที่ผิดพลาดในโปรแกรม ให้แก้ไขให้ถูกต้อง
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
-
+![image](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-12/assets/144195555/4061db49-64fd-414f-a8ff-58d9e66ee68f)
+### สามารถ Build ได้ เพราะ ทุกคลาสสืบทอดมาจาก abstract class Animal ซึ่งไม่มีโครงสร้างการทำงาน แต่สืบทอดไป class อื่น ทำให้เกิด override ทำให้สามารถแสดงผลข้อมูลที่แตกต่างกันไปในแต่ละ class
 5.Run project โดยการใช้คำสั่ง
 
 ```cmd
@@ -65,5 +66,10 @@ dotnet run --project Lab12_Ex03
 ```
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
-
+![image](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-12/assets/144195555/7acd5fd0-517e-48f8-a6b0-7f91f9d85391)
+### สามารถ Run ได้ เพราะ สืบทอดมาแล้ว เกิด override แต่ละ class มีการทำงานที่แตกต่างกันตามที่กำหนด
 7.อธิบายสิ่งที่พบในการทดลอง
+### โปรแกรมจะแสดงผล
+### Dog: running on the ground
+### Fish: swimming in water
+### Bird: fly in the ai
