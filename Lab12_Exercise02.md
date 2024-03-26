@@ -60,6 +60,8 @@ dotnet build  Lab12_Ex02
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
 
+<img width="650" alt="image" src="https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-12/assets/144195963/38b42ecd-63b3-42cf-b087-cec98a464803">
+
 5.Run project โดยการใช้คำสั่ง
 
 ```cmd
@@ -68,4 +70,11 @@ dotnet run --project Lab12_Ex02
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+<img width="629" alt="image" src="https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-12/assets/144195963/55548543-1c75-47cb-9749-609450522040">
+
 7.อธิบายสิ่งที่พบในการทดลอง
+
+โปรแกรมจะแสดงผล
+Draw a rectangle
+Draw a triangle
+Draw a circle
