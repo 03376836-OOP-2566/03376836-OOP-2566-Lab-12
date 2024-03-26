@@ -91,6 +91,8 @@ dotnet build  Lab12_Ex04
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
 
+<img width="553" alt="image" src="https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-12/assets/144195963/c89d4e20-cdd8-4d4a-842e-009210b5d20d">
+
 5.Run project โดยการใช้คำสั่ง
 
 ```cmd
@@ -99,4 +101,11 @@ dotnet run --project Lab12_Ex04
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+<img width="478" alt="image" src="https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-12/assets/144195963/398a0b41-84f2-4df7-ae67-d4b8496b1e11">
+
 7.อธิบายสิ่งที่พบในการทดลอง
+
+โปรแกรมจะแสดงผล
+Rectangle Area = 10.00000 x 20.00000 = 200.00000 unit(s)
+Triangle Area = 10.00000 x 20.00000 x 1/2 = 100.00000 unit(s)
+Circle Area = 3.14159 x 10 ^2 = 314.15927 unit(s)
