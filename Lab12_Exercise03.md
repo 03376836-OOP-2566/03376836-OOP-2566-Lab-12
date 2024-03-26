@@ -58,6 +58,8 @@ dotnet build  Lab12_Ex03
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
 
+<img width="647" alt="image" src="https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-12/assets/144195963/31c49fac-0a38-4163-ab4f-0cd863700575">
+
 5.Run project โดยการใช้คำสั่ง
 
 ```cmd
@@ -66,4 +68,11 @@ dotnet run --project Lab12_Ex03
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+<img width="497" alt="image" src="https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-12/assets/144195963/197a1472-469e-4b6b-9e55-911b7c163ccf">
+
 7.อธิบายสิ่งที่พบในการทดลอง
+
+โปรแกรมจะแสดงผล
+Dog: running on the ground
+Fish: swimming in water
+Bird: fly in the ai
