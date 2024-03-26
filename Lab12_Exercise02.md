@@ -59,6 +59,7 @@ dotnet build  Lab12_Ex02
 ถ้ามีที่ผิดพลาดในโปรแกรม ให้แก้ไขให้ถูกต้อง
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-12/assets/144195708/5ceb4fa1-99d9-4a79-9df2-93a76c3d1538)
 
 5.Run project โดยการใช้คำสั่ง
 
@@ -67,5 +68,11 @@ dotnet run --project Lab12_Ex02
 ```
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-12/assets/144195708/e5291130-e3f0-42b1-ae26-bb55702c54d5)
 
 7.อธิบายสิ่งที่พบในการทดลอง
+โปรแกรมจะแสดงผล
+
+- Draw a rectangle
+- Draw a triangle
+- Draw a circle
